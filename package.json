@@ -1,0 +1,20 @@
+{
+  "name": "@dsocial/graphql-typedefs",
+  "version": "1.0.0",
+  "description": "dSocial's GraphQL type definitions used by the dSocial API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getdsocial/dsocial-graphql-typedefs.git"
+  },
+  "keywords": [
+    "dsocial",
+    "graphql",
+    "typedefs"
+  ],
+  "author": "PeepsLabs <peepslabs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getdsocial/dsocial-graphql/typedefs/issues"
+  },
+  "homepage": "https://github.com/dhub-org/dhub#readme"
+}
